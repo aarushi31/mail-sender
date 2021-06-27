@@ -1,0 +1,16 @@
+.history-heading{
+    margin-top: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    margin-left: 1rem;
+}
+
+.history-card{
+    min-width: 90vw;
+    margin:1rem;
+    padding: 1rem;
+    border:1px solid grey;
+}
+ul.history-card{
+    list-style: none;
+}

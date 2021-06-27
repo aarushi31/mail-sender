@@ -1,0 +1,24 @@
+.header
+{
+    display: flex;
+    padding: 1rem;
+    border-bottom: 1px solid grey;
+}
+
+.header h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    margin-right: 4rem;
+}
+.header .btns{
+     margin-left: 60%;
+}
+.create-container{
+    width: 60%;
+    min-height:100vh ;
+    padding: 2rem;
+    margin: 1rem auto;
+    box-shadow: -11px 16px 27px -16px rgba(0,0,0,0.75);
+-webkit-box-shadow: -11px 16px 27px -16px rgba(0,0,0,0.75);
+-moz-box-shadow: -11px 16px 27px -16px rgba(0,0,0,0.75);
+}

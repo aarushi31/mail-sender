@@ -1,0 +1,17 @@
+.container{
+    width: 60%;
+    height: 80vh;
+    padding: 2rem;
+    margin: 3rem auto;
+    box-shadow: -11px 16px 27px -16px rgba(0,0,0,0.75);
+-webkit-box-shadow: -11px 16px 27px -16px rgba(0,0,0,0.75);
+-moz-box-shadow: -11px 16px 27px -16px rgba(0,0,0,0.75);
+}
+.or{
+    font-weight: 300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

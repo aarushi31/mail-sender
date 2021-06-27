@@ -1,0 +1,35 @@
+.home-image{
+    margin: 3rem;
+    width: 40vw;
+}
+.home-container{
+    display: flex;
+}
+
+.home-heading{
+    margin: 4rem 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+
+.home-para{
+    margin: 2rem;
+    font-size: 1.2rem;
+    color: grey;
+    font-weight: 300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.buttons{
+    margin: 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .home-container{
+        display: block;
+    }
+    .home-image{
+        
+        width: 60vw;
+    }
+  }
